@@ -1,0 +1,4 @@
+# Local backup and temporary outputs; the deliverable .blend is tracked
+blender/tyto_scene.blend1
+renders/blender/
+Unselected files/
